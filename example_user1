@@ -1,0 +1,13 @@
+{
+  {
+    "phone" : "01012345678",
+    "email" : "abcd@naver.com",
+    "coupon" : [
+    {
+      "coupon_id" : "123",
+      "coupon_rate" : 0.1,
+      "expire_date" : "2024-05-14"
+    }
+    ]
+  }
+}
